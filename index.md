@@ -14,8 +14,8 @@
 
 > And here's the same with numbers:
 
-1. Foo
-2. Bar
+1. Bar `Changed from Foo to Bar`
+2. Foo `Changed from Bar to Foo`
 
 ---
 
