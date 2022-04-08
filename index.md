@@ -1,6 +1,6 @@
 **Index:** 
 [Lab Report 1](lab-report-1-week-2.html)
-[Lab Report 1(entire url)](https://<your-username>.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+[Lab Report 1(entire url)](https://kevink856.github.io/-cse15l-lab-reports/lab-report-1-week-2.html)
 
 ---
 
