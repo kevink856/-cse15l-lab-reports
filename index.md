@@ -1,7 +1,7 @@
 **Index:** 
 [Home Page](https://kevink856.github.io/-cse15l-lab-reports/)
 [Lab Report 1](lab-report-1-week-2.html)
-[Screenshots](testfile.html)
+[Test File](testfile.html)
 
 
 ---
