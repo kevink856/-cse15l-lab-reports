@@ -1,3 +1,9 @@
+**Index:** 
+[Lab Report 1](lab-report-1-week-2.html)
+[Lab Report 1(entire url)](https://<your-username>.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+
+---
+
 # Basic Markdown Syntax
 ## A display of each basic markdown feature as shown in this [Cheat Sheet](https://commonmark.org/help/)
 ---
