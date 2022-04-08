@@ -5,9 +5,9 @@
 `Explicit examples:`
 
 **Italic:** *test*
-**Bold:** **test**
+**Bold: test**
 
-> You can list with dots **and** numbers:
+> You can list with dots and numbers:
 
 - Foo
 - Bar
@@ -16,9 +16,10 @@
 
 1. Foo
 2. Bar
+
 ---
 
-![Cool Pattern](https://imgur.com/a/Z13sJ8t)
+![Cool Pattern](https://i.imgur.com/b8T6kbv.png)
 ```
 To print this in Java, you can use this code!
 # code block
